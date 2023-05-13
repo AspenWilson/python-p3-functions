@@ -54,3 +54,11 @@ function halve(number) {
 
   return number / 2;
 }
+
+// function myFunction(param) {
+//   console.log("Running myFunction");
+//   return param + 1;
+// }
+
+// const myFunctionReturnValue = myFunction(1) 
+// console.log(myFunctionReturnValue)
